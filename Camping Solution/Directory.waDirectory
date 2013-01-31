@@ -1,6 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<directory>
-	<group ID="01000000000000000000000000000000" name="Admin">
-	</group>
-</directory>
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
 
+<group ID="01000000000000000000000000000000" name="Admin">
+
+	<include user="admin" ID="6BC06597571E56469FA755582679898B"/>
+</group>
+
+<group ID="D5D787DFBCA9344783C586CDE47A64A6" name="gitusers">
+
+	<include user="gitu1" ID="8DC64B79E30A124EBF80C027E60CADFB"/>
+
+</group>
+
+<user ID="6BC06597571E56469FA755582679898B" name="admin" fullName=""/>
+
+<user ID="8DC64B79E30A124EBF80C027E60CADFB" name="gitu1" fullName=""/>
+</directory>
