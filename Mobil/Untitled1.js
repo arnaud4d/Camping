@@ -1,4 +1,3 @@
 ﻿
-jkl,klkl,kl
-
-ugyughjugjghj
+ds.Place.compute("surface",true);
+ds.Place.compute("surface");
